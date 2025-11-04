@@ -4,7 +4,6 @@ An AI-powered conversational agent that performs sophisticated analysis of banki
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 🎯 Project Overview
 
@@ -264,7 +263,6 @@ docker-compose run --rm financial-analyst-agent python test_agent.py
 | SQL Query Success Rate | 98%+ |
 | Document Retrieval Relevance | High (top-3 chunks) |
 | Estimated Cost per Query | $0.01-0.03 |
-| Token Usage (avg) | 2,000-5,000 tokens |
 
 ---
 
@@ -280,33 +278,3 @@ docker-compose run --rm financial-analyst-agent python test_agent.py
 
 ---
 
-## 🤝 Contributing
-
-This is a portfolio/demonstration project. However, suggestions and feedback are welcome!
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
-## 👤 Author
-
-**[Your Name]**
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 🙏 Acknowledgments
-
-- Built as a technical demonstration for **CIBC Enterprise Advanced Analytics & AI** role
-- Leverages LangChain, LangGraph, and OpenAI technologies
-- Inspired by production AI systems in financial services
-
----
-
-**⭐ If this project helped you, please star it!**
