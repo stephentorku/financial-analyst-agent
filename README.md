@@ -16,8 +16,6 @@ This project demonstrates production-grade agentic AI capabilities by building a
 - **Perform statistical analysis** with Python/Pandas
 - **Provide actionable insights** with document citations
 
-Built as a technical demonstration for the **CIBC Enterprise Advanced Analytics & AI** role.
-
 ---
 
 ## 🚀 Features
@@ -143,7 +141,7 @@ defaults correlate with credit score ranges?"
 ### Option 1: Docker (Recommended)
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/financial-analyst-agent.git
+git clone https://github.com/stephentorku/financial-analyst-agent.git
 cd financial-analyst-agent
 
 # 2. Create .env file
@@ -164,7 +162,7 @@ docker-compose up
 ### Option 2: Local Development
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/financial-analyst-agent.git
+git clone https://github.com/stephentorku/financial-analyst-agent.git
 cd financial-analyst-agent
 
 # 2. Create virtual environment
@@ -266,15 +264,4 @@ docker-compose run --rm financial-analyst-agent python test_agent.py
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] **Caching Layer**: Redis for repeated queries
-- [ ] **Advanced Visualizations**: Automated chart generation
-- [ ] **Multi-turn Conversations**: Contextual follow-up handling
-- [ ] **A/B Testing Framework**: Compare different agent strategies
-- [ ] **Production Monitoring**: LangSmith integration for observability
-- [ ] **Azure Deployment**: Full cloud infrastructure with Databricks
-- [ ] **Model Fine-tuning**: Domain-specific SQL generation improvements
-
----
 
