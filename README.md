@@ -9,7 +9,7 @@ An AI-powered conversational agent that performs sophisticated analysis of banki
 
 This project demonstrates production-grade agentic AI capabilities by building a financial analyst agent that can:
 
-- **Analyze loan portfolio performance** with 10,000+ loan records
+- **Analyze loan portfolio performance** with 1,000+ loan records
 - **Answer complex business questions** using multi-step reasoning
 - **Search internal documents** (risk reports, policies) via RAG
 - **Generate and execute SQL queries** dynamically
@@ -121,12 +121,12 @@ defaults correlate with credit score ranges?"
 
 ## 📁 Data Sources
 
-### Structured Data (60,000+ records)
-- **Loans**: 10,000 records (2022-2025)
+### Structured Data (6,000+ records)
+- **Loans**: 1,000 records (2022-2025)
   - Includes: loan type, amount, credit score, default status, geography
   - **Key feature**: Q2 2024 default rate spike (8.2% → 14.7%)
   
-- **Transactions**: 50,000 records
+- **Transactions**: 5,000 records
   - Includes: transaction type, amount, fraud indicators
 
 ### Unstructured Data (5 PDF documents)
